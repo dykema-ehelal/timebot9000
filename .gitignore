@@ -1,0 +1,4 @@
+node_modules/
+backup_files/
+lambda-functions/
+run-assistant_backup/
